@@ -1,0 +1,16 @@
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.exe
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.deps.json
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.runtimeconfig.json
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.runtimeconfig.dev.json
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.dll
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\bin\Debug\net5.0\ref\FizzBuzz.dll
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.pdb
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfo.cs
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.dll
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\obj\Debug\net5.0\ref\FizzBuzz.dll
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.pdb
+C:\Revature_12_Week_Training\Practicing\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Revature_12_Week_Training\Practicing\CoinFlip\bin\Debug\net5.0\CoinFlip.exe
+C:\Revature_12_Week_Training\Practicing\CoinFlip\bin\Debug\net5.0\CoinFlip.deps.json
+C:\Revature_12_Week_Training\Practicing\CoinFlip\bin\Debug\net5.0\CoinFlip.runtimeconfig.json
+C:\Revature_12_Week_Training\Practicing\CoinFlip\bin\Debug\net5.0\CoinFlip.runtimeconfig.dev.json
+C:\Revature_12_Week_Training\Practicing\CoinFlip\bin\Debug\net5.0\CoinFlip.dll
+C:\Revature_12_Week_Training\Practicing\CoinFlip\bin\Debug\net5.0\ref\CoinFlip.dll
+C:\Revature_12_Week_Training\Practicing\CoinFlip\bin\Debug\net5.0\CoinFlip.pdb
+C:\Revature_12_Week_Training\Practicing\CoinFlip\obj\Debug\net5.0\CoinFlip.csproj.AssemblyReference.cache
+C:\Revature_12_Week_Training\Practicing\CoinFlip\obj\Debug\net5.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature_12_Week_Training\Practicing\CoinFlip\obj\Debug\net5.0\CoinFlip.AssemblyInfoInputs.cache
+C:\Revature_12_Week_Training\Practicing\CoinFlip\obj\Debug\net5.0\CoinFlip.AssemblyInfo.cs
+C:\Revature_12_Week_Training\Practicing\CoinFlip\obj\Debug\net5.0\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Revature_12_Week_Training\Practicing\CoinFlip\obj\Debug\net5.0\CoinFlip.dll
+C:\Revature_12_Week_Training\Practicing\CoinFlip\obj\Debug\net5.0\ref\CoinFlip.dll
+C:\Revature_12_Week_Training\Practicing\CoinFlip\obj\Debug\net5.0\CoinFlip.pdb
+C:\Revature_12_Week_Training\Practicing\CoinFlip\obj\Debug\net5.0\CoinFlip.genruntimeconfig.cache

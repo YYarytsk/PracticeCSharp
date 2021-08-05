@@ -1,0 +1,16 @@
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\bin\Debug\net5.0\BattleGameHeroVsMonster.exe
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\bin\Debug\net5.0\BattleGameHeroVsMonster.deps.json
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\bin\Debug\net5.0\BattleGameHeroVsMonster.runtimeconfig.json
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\bin\Debug\net5.0\BattleGameHeroVsMonster.runtimeconfig.dev.json
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\bin\Debug\net5.0\BattleGameHeroVsMonster.dll
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\bin\Debug\net5.0\ref\BattleGameHeroVsMonster.dll
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\bin\Debug\net5.0\BattleGameHeroVsMonster.pdb
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\obj\Debug\net5.0\BattleGameHeroVsMonster.csproj.AssemblyReference.cache
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\obj\Debug\net5.0\BattleGameHeroVsMonster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\obj\Debug\net5.0\BattleGameHeroVsMonster.AssemblyInfoInputs.cache
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\obj\Debug\net5.0\BattleGameHeroVsMonster.AssemblyInfo.cs
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\obj\Debug\net5.0\BattleGameHeroVsMonster.csproj.CoreCompileInputs.cache
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\obj\Debug\net5.0\BattleGameHeroVsMonster.dll
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\obj\Debug\net5.0\ref\BattleGameHeroVsMonster.dll
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\obj\Debug\net5.0\BattleGameHeroVsMonster.pdb
+C:\Revature_12_Week_Training\Practicing\BattleGameHeroVsMonster\obj\Debug\net5.0\BattleGameHeroVsMonster.genruntimeconfig.cache
