@@ -1,0 +1,5 @@
+C:\Revature_12_Week_Training\Practicing\CompareTriplets\obj\Debug\net5.0\CompareTriplets.csproj.AssemblyReference.cache
+C:\Revature_12_Week_Training\Practicing\CompareTriplets\obj\Debug\net5.0\CompareTriplets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature_12_Week_Training\Practicing\CompareTriplets\obj\Debug\net5.0\CompareTriplets.AssemblyInfoInputs.cache
+C:\Revature_12_Week_Training\Practicing\CompareTriplets\obj\Debug\net5.0\CompareTriplets.AssemblyInfo.cs
+C:\Revature_12_Week_Training\Practicing\CompareTriplets\obj\Debug\net5.0\CompareTriplets.csproj.CoreCompileInputs.cache
