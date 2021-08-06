@@ -1,0 +1,16 @@
+C:\Revature_12_Week_Training\Practicing\DivideValue\bin\Debug\net5.0\DivideValue.exe
+C:\Revature_12_Week_Training\Practicing\DivideValue\bin\Debug\net5.0\DivideValue.deps.json
+C:\Revature_12_Week_Training\Practicing\DivideValue\bin\Debug\net5.0\DivideValue.runtimeconfig.json
+C:\Revature_12_Week_Training\Practicing\DivideValue\bin\Debug\net5.0\DivideValue.runtimeconfig.dev.json
+C:\Revature_12_Week_Training\Practicing\DivideValue\bin\Debug\net5.0\DivideValue.dll
+C:\Revature_12_Week_Training\Practicing\DivideValue\bin\Debug\net5.0\ref\DivideValue.dll
+C:\Revature_12_Week_Training\Practicing\DivideValue\bin\Debug\net5.0\DivideValue.pdb
+C:\Revature_12_Week_Training\Practicing\DivideValue\obj\Debug\net5.0\DivideValue.csproj.AssemblyReference.cache
+C:\Revature_12_Week_Training\Practicing\DivideValue\obj\Debug\net5.0\DivideValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature_12_Week_Training\Practicing\DivideValue\obj\Debug\net5.0\DivideValue.AssemblyInfoInputs.cache
+C:\Revature_12_Week_Training\Practicing\DivideValue\obj\Debug\net5.0\DivideValue.AssemblyInfo.cs
+C:\Revature_12_Week_Training\Practicing\DivideValue\obj\Debug\net5.0\DivideValue.csproj.CoreCompileInputs.cache
+C:\Revature_12_Week_Training\Practicing\DivideValue\obj\Debug\net5.0\DivideValue.dll
+C:\Revature_12_Week_Training\Practicing\DivideValue\obj\Debug\net5.0\ref\DivideValue.dll
+C:\Revature_12_Week_Training\Practicing\DivideValue\obj\Debug\net5.0\DivideValue.pdb
+C:\Revature_12_Week_Training\Practicing\DivideValue\obj\Debug\net5.0\DivideValue.genruntimeconfig.cache
