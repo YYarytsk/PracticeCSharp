@@ -1,0 +1,16 @@
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\obj\Debug\net5.0\StaircaseSample.csproj.AssemblyReference.cache
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\obj\Debug\net5.0\StaircaseSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\obj\Debug\net5.0\StaircaseSample.AssemblyInfoInputs.cache
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\obj\Debug\net5.0\StaircaseSample.AssemblyInfo.cs
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\obj\Debug\net5.0\StaircaseSample.csproj.CoreCompileInputs.cache
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\bin\Debug\net5.0\StaircaseSample.exe
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\bin\Debug\net5.0\StaircaseSample.deps.json
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\bin\Debug\net5.0\StaircaseSample.runtimeconfig.json
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\bin\Debug\net5.0\StaircaseSample.runtimeconfig.dev.json
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\bin\Debug\net5.0\StaircaseSample.dll
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\bin\Debug\net5.0\ref\StaircaseSample.dll
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\bin\Debug\net5.0\StaircaseSample.pdb
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\obj\Debug\net5.0\StaircaseSample.dll
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\obj\Debug\net5.0\ref\StaircaseSample.dll
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\obj\Debug\net5.0\StaircaseSample.pdb
+C:\Revature_12_Week_Training\Practicing\StaircaseSample\obj\Debug\net5.0\StaircaseSample.genruntimeconfig.cache
