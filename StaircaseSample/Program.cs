@@ -6,9 +6,8 @@ namespace StaircaseSample
     {
         static void Main(string[] args)
         {
-       
-            Random random = new Random();
-            int n = 20; 
+            int n = 150;
+            
             for (int j = 0; j < n; j++)
             {
                 for (int i = n - 1; i >= 0; i--)
